@@ -1,6 +1,6 @@
 ---
 title: "Brownlows Bets"
-author: "Your Name Goes Here"
+author: "Tito Lopez"
 output: 
   html_document:
     number_sections: true
@@ -9,6 +9,7 @@ output:
 date: "`r Sys.Date()`"    
     
 ---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 require(tidyverse)
